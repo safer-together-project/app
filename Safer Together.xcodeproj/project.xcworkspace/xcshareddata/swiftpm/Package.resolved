@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "APIKit",
+        "repositoryURL": "https://github.com/ishkawa/APIKit.git",
+        "state": {
+          "branch": null,
+          "revision": "c8f5320d84c4c34c0fd965da3c7957819a1ccdd4",
+          "version": "5.2.0"
+        }
+      },
+      {
+        "package": "AppleWelcomeScreen",
+        "repositoryURL": "https://github.com/WilsonGramer/AppleWelcomeScreen.git",
+        "state": {
+          "branch": null,
+          "revision": "86034118ff532aefa588275db8c057dc67297787",
+          "version": "2.1.0"
+        }
+      },
+      {
+        "package": "SPPermissions",
+        "repositoryURL": "https://github.com/ivanvorobei/SPPermissions.git",
+        "state": {
+          "branch": null,
+          "revision": "b83bdd52fc110c34c015e72a36a4a4920bc4e8b8",
+          "version": "6.8.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
